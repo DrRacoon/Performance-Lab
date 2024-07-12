@@ -1,3 +1,4 @@
+#!/bin/python3.12
 """
 Fills a report out
 """

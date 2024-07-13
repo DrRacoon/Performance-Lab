@@ -1,6 +1,6 @@
 #!/bin/python3.12
 """
-Fills a report out
+Finds minimum number of steps
 """
 
 from argparse import ArgumentParser, Namespace

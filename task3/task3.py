@@ -10,7 +10,7 @@ from typing import Literal
 from warnings import warn
 
 
-type Test = dict[str, str | list[Test]]
+type Test = dict[str, int | str | list[Test]]
 
 
 def parse_args() -> Namespace:
